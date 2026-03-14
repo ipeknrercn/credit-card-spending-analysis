@@ -1,10 +1,10 @@
-## 💳 Credit Card Spending Data Analysis
+##  Credit Card Spending Data Analysis
 
 This project was developed to analyze credit card users' spending data and obtain meaningful insights into user behavior.
 
 ## Phase 1: Data visualization with Python
 
-🎯 Main Objectives
+ Main Objectives
 
 To systematically analyze credit card spending data.
 
@@ -14,7 +14,7 @@ To identify geographical, temporal, and demographic spending patterns.
 
 To provide action plans for business development and marketing strategies.
 
-🔧 Technologies Used
+ Technologies Used
 
 Python 3.x - Main programming language
 Pandas - Data manipulation and analysis
@@ -23,7 +23,7 @@ Seaborn - Statistical data visualization
 NumPy - Numerical calculations
 Google Colab - Development environment
 
-📊 Data Sets
+ Data Sets
 
 users.csv - User demographic information
 
@@ -37,10 +37,10 @@ Transaction data for behavioral analysis
 
 // 2 data sets combined
 
-## 🔍 Detailed Analysis Results
+##  Detailed Analysis Results
 
-## 1. 🏙️ Geographic Spending Analysis - Cities with the Highest Spending
-📊 Analysis Method:
+## 1.  Geographic Spending Analysis - Cities with the Highest Spending
+ Analysis Method:
 
 Calculation of total spending amounts by city
 Identification of the top 10 cities with the highest spending
@@ -48,8 +48,8 @@ Bar chart Visualization
 
 <img width="1107" height="650" alt="image" src="https://github.com/user-attachments/assets/7d5e63fc-f17d-4864-926c-db2c00ec400d" />
 
-## 2. ⏰ Time Spending Analysis - Hourly Distribution
-📊 Analysis Method:
+## 2.  Time Spending Analysis - Hourly Distribution
+ Analysis Method:
 
 Visualization of 24-hour spending distribution with line graph
 Identification of peak hours and low activity periods
@@ -57,8 +57,8 @@ Comparison based on time period (morning, noon, evening, night)
 
 <img width="988" height="487" alt="image" src="https://github.com/user-attachments/assets/545ee7fb-bbc7-4807-aae5-a198ab7957bf" />
 
-## 3. 👥 Demographic Analysis - Spending Comparison by Gender
-📊 Analysis Method:
+## 3.  Demographic Analysis - Spending Comparison by Gender
+ Analysis Method:
 
 Total and average spending calculations based on gender
 Analysis of average spending per user
@@ -66,8 +66,8 @@ Comparative visualization with bar chart
 
 <img width="975" height="655" alt="image" src="https://github.com/user-attachments/assets/5fec9eaf-845d-41f6-be37-3257a07faf07" />
 
-## 4. 💰 Economic Analysis - Income-Expenditure Relationship
-📊 Analysis Method:
+## 4.  Economic Analysis - Income-Expenditure Relationship
+ Analysis Method:
 
 Correlation analysis between annual income and total spending
 Visualization of the relationship with a scatter plot
@@ -83,7 +83,7 @@ This project was created using Power BI to analyze users' credit card spending.
 
 Using datasets, spending distributions were examined according to city, time, gender, and income group.
 
-🔧 Technologies Used
+ Technologies Used
 -Power BI
 
 ## Features
