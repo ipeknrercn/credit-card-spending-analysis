@@ -7,17 +7,25 @@ This project was developed to analyze credit card users' spending data and obtai
 ### Main Objectives
 
 -To systematically analyze credit card spending data.
+
 -To obtain data-driven insights for customer segmentation.
+
 -To identify geographical, temporal, and demographic spending patterns.
+
 -To provide action plans for business development and marketing strategies.
 
 ### Technologies Used
 
 -Python 3.x - Main programming language
+
 -Pandas - Data manipulation and analysis
+
 -Matplotlib - Basic visualizations
+
 -Seaborn - Statistical data visualization
+
 -NumPy - Numerical calculations
+
 -Google Colab - Development environment
 
 ### Data Sets
