@@ -4,7 +4,7 @@ This project was developed to analyze credit card users' spending data and obtai
 
 ## Phase 1: Data visualization with Python
 
- Main Objectives
+### Main Objectives
 
 To systematically analyze credit card spending data.
 
@@ -14,7 +14,7 @@ To identify geographical, temporal, and demographic spending patterns.
 
 To provide action plans for business development and marketing strategies.
 
- Technologies Used
+### Technologies Used
 
 Python 3.x - Main programming language
 Pandas - Data manipulation and analysis
@@ -23,7 +23,7 @@ Seaborn - Statistical data visualization
 NumPy - Numerical calculations
 Google Colab - Development environment
 
- Data Sets
+### Data Sets
 
 users.csv - User demographic information
 
@@ -83,7 +83,7 @@ This project was created using Power BI to analyze users' credit card spending.
 
 Using datasets, spending distributions were examined according to city, time, gender, and income group.
 
- Technologies Used
+### Technologies Used
 -Power BI
 
 ## Features
